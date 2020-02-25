@@ -10,3 +10,6 @@ Just doing this alone is known as the simple factory.
 
 Define an interface gor creating an object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
 
+## Structure
+
+![mind factory](https://github.com/Tom-hayden/Notes/blob/master/DesignPatterns/factory/factoryMethod.png)
